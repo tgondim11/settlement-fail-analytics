@@ -5,7 +5,7 @@ portfolio project applying supply chain / operations analytics thinking to
 post-trade securities settlement — fail-rate monitoring, aging, root-cause
 analysis, counterparty concentration, and cost-of-fail estimation.
 
-**[PLACEHOLDER: live dashboard URL once deployed]**
+*Live dashboard: not yet deployed — see the deployment steps in this README.*
 
 ## What this is
 
@@ -153,6 +153,6 @@ Python, pandas, NumPy (data generation + analytics), Streamlit + Plotly
 
 ## Author
 
-**[PLACEHOLDER: name]**
+**Thales Gondim**
 
-[PLACEHOLDER: one-sentence "why I built this"]
+I'm interested in the operational side of finance, and built this to bring my Supply Chain & Information Systems background to bear on it — settlement fail management is, at its core, an operations problem: tracking exceptions, root causes, and aging, the same way a supply chain team tracks on-time delivery and stockouts.
