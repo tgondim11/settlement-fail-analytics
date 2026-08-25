@@ -1,0 +1,30 @@
+{
+  "total_trades": 15000,
+  "total_fails": 339,
+  "overall_fail_rate": 0.0226,
+  "total_estimated_cost": 11565288.45,
+  "fail_rate_by_asset_class": {
+    "Corporate Bond": 0.0427,
+    "Equity": 0.0171,
+    "Government Bond": 0.0146,
+    "ETF": 0.013
+  },
+  "aging_distribution": {
+    "1-2 days": 152,
+    "3-5 days": 111,
+    "6-10 days": 55,
+    ">10 days": 21
+  },
+  "root_cause_breakdown": {
+    "Insufficient Securities (Long Fail)": 151,
+    "DK - Trade/Documentation Discrepancy": 71,
+    "Settlement Instruction Error": 47,
+    "Insufficient Funds": 44,
+    "Corporate Action Conflict": 26
+  },
+  "resolution_stats": {
+    "mean_days_to_resolve": 3.98,
+    "median_days_to_resolve": 3.0,
+    "pct_still_open": 0.0295
+  }
+}
